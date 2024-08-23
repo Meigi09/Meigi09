@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meigi09
+- 👋 Hi, I’m Meigi
 - 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me:
